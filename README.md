@@ -1,7 +1,7 @@
 # Abuser Blacklist
 
-- Telegram: @xinnian6
-  消息轰炸工作室成员
+- Telegram: @xinnian6 (ChatID: 6858204418)  
+  消息轰炸工作室成员  
   Message bombardment member
   
 
