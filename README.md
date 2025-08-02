@@ -10,6 +10,6 @@
   Threatening community administrators, Threatening to dox
 
 
-- QQ: 3212935
-  企图冒充社区管理，骗取权限
+- QQ: 3212935  
+  企图冒充社区管理，骗取权限  
   Attempting to impersonate community administrator and obtain permissions
